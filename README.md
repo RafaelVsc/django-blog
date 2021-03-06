@@ -6,6 +6,7 @@
   <a href="#-saiba-mais">Saiba mais</a>
 </p>
 
+
 ## ✨ Tecnologias
 
 Esté projeto foi criado seguindo o tutorial Django Girls [tutorial.djangogirls.org](http://tutorial.djangogirls.org) com as seguintes tenclogias:
@@ -23,8 +24,7 @@ O Django Girls Tutorial é licenciado sob  [*Creative Commons Attribution-ShareA
 
 
 ## 💡 Saiba mais
-Para mais dúvidas, por favor [contato DjangoGirls](https://djangogirls.org/).
+Para mais dúvidas, por favor entre em contato [contato DjangoGirls](https://djangogirls.org/).
 
 
----
 Feito com :brain: por [Rafael Vescio](https://www.linkedin.com/in/rafael-vescio/) 
