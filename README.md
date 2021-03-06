@@ -24,3 +24,7 @@ O Django Girls Tutorial é licenciado sob  [*Creative Commons Attribution-ShareA
 
 ## 💡 Saiba mais
 Para mais dúvidas, por favor [contato DjangoGirls](https://djangogirls.org/).
+
+
+---
+Feito com :brain: por [Rafael Vescio](https://www.linkedin.com/in/rafael-vescio/) 
